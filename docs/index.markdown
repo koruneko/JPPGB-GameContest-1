@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: ゲーム作成コンテスト
+layout: default
+---
+
 {: align="center"}
 ![JPPGB logo](JPPGB-logo.png)
 
