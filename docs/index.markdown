@@ -21,7 +21,7 @@ layout: default
 # イベント概要
 <u><strong>J</strong></u>apan <u><strong>P</strong></u>ower <u><strong>P</strong></u>latform <u><strong>G</strong></u>ame <u><strong>B</strong></u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
 
-今回のイベントでは、皆さんお待ちかね(？)のゲーム作成コンテストを開催します！:party_popper:  
+今回のイベントでは、皆さんお待ちかね(？)のゲーム作成コンテストを開催します！🎉  
 
 今回は前回の第0回とは違いサービスの制限はありません。  
 Power Platformで開発されたゲームであればOKです！  
@@ -133,7 +133,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 ## 日本マイクロソフト株式会社
 <img src="https://onedrive.live.com/embed?resid=C020E9815A27D906%21121&authkey=%21ALpFUpT1QGzeKH4&width=768&height=344" width="768" height="344" />
 
-https://www.microsoft.com/ja-jp/
+[https://www.microsoft.com/ja-jp/](https://www.microsoft.com/ja-jp/)
 
 ### 企業紹介メッセージ
 日本マイクロソフト株式会社は、マイクロソフト コーポレーションの日本法人です。マイクロソフトは、インテリジェントクラウド、インテリジェントエッジ時代のデジタルトランスフォーメーションを可能にします。「Empower every person and every organization on the planet to achieve more.（**地球上のすべての個人とすべての組織が、より多くのことを達成できるようにする**）」を企業ミッションとしています。
@@ -141,7 +141,7 @@ https://www.microsoft.com/ja-jp/
 ## OnTime Group Calendar Direct Shop
 ![OnTime Group Calendar Direct Shop](https://onedrive.live.com/embed?resid=C020E9815A27D906%21112&authkey=%21AOexxq9F2Gmlgfg&width=1200&height=600)
 
-https://ontimesuite.jp/forms/
+[https://ontimesuite.jp/forms/](https://ontimesuite.jp/forms/)
 
 ### 企業紹介メッセージ
 OnTime Group Calendarは、の見た目はグループビューだけではありません。 段取りを俯瞰するのに便利な個人ビューを実装しています。 スケジュールを制する者はコンテストも制す。エントリされる皆さんを応援します。
@@ -149,7 +149,7 @@ OnTime Group Calendarは、の見た目はグループビューだけではあ�
 ## 株式会社TAKMASPOWER
 ![株式会社TAKMASPOWER](https://onedrive.live.com/embed?resid=C020E9815A27D906%21113&authkey=%21AB4D-qNWn5QdoHQ&width=2048&height=2048)
 
-https://www.takmaspower.com/
+[https://www.takmaspower.com/](https://www.takmaspower.com/)
 
 ### 企業紹介メッセージ
 元日本マイクロソフトエンジニア益森。Microsoft Power Platform に関する市民開発育成支援をしています
@@ -157,7 +157,7 @@ https://www.takmaspower.com/
 ## 株式会社ビットゼミ
 ![株式会社ビットゼミ](https://onedrive.live.com/embed?resid=C020E9815A27D906%21115&authkey=%21AA2-nQWPLIAjp2w&width=205&height=56)
 
-https://www.bitzemi.com/
+[https://www.bitzemi.com/](https://www.bitzemi.com/)
 
 ### 企業紹介メッセージ
 講師派遣、企業研修、職業訓練、職業紹介、伴走支援を通じて、学ぶ人や働く人の自己実現と、市民開発によるDXをサポートします！
