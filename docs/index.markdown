@@ -12,7 +12,7 @@
 詳しくは[こちらの connpass のページ](https://jppgb.connpass.com/event/317001/)に記載の内容をご確認ください。  
 
 # イベント概要
-<u>**J**</u>apan <u>**P**</u>ower <u>**P**</u>latform <u>**G**</u>ame <u>**B**</u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
+<u><strong>J</strong></u>apan <u><strong>P</strong></u>ower <u><strong>P</strong></u>latform <u><strong>G</strong></u>ame <u><strong>B</strong></u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
 
 今回のイベントでは、皆さんお待ちかね(？)のゲーム作成コンテストを開催します！:party_popper:  
 
@@ -35,25 +35,89 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 
 
 # エントリー作品一覧
-| 名前 | アピールポイント | 作品リンク |
-| :--- | :--- | :--- |
-| <span style="font-size: 150%">**PPログ さん**</span><br> | | |
-| <span style="font-size: 150%">**Ahf さん**</span><br> | | |
-| <span style="font-size: 150%">**おいしみ さん**</span><br> | | |
-| <span style="font-size: 150%">**みのる さん**</span><br><img src="みのるさん.png" width="150"> | いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・ | [作品リンク](../04.みのるさん/Minoru_Yagi_Shoot&Bloom_20240527134512.zip) |
-| <span style="font-size: 150%">**ヨウセイ さん**</span><br> | | |
-| <span style="font-size: 150%">**Yellow11 さん**</span><br> | | |
-| <span style="font-size: 150%">**Mashiro Misima さん**</span><br> | | |
-| <span style="font-size: 150%">**T A I C H I さん**</span><br> | | |
+<table>
+<thead>
+<tr>
+<th style="text-align:left">名前</th>
+<th style="text-align:left">アピールポイント</th>
+<th style="text-align:left">作品リンク</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>PPログ さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>Ahf さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>おいしみ さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>みのる さん</strong></span><br><img src="みのるさん.png" width="150"></td>
+<td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
+<td style="text-align:left"><a href="../04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>ヨウセイ さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>Yellow11 さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>Mashiro Misima さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>T A I C H I さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+
 
 \* リンクのない作品は作成途中になります。今しばらくお待ちください。  
 
 # 運営枠
-| 名前 | アピールポイント | 作品リンク |
-| :--- | :--- | :--- |
-| <span style="font-size: 150%">**たな さん**</span><br> | | |
-| <span style="font-size: 150%">**ふらり さん**</span><br> | | |
-| <span style="font-size: 150%">**コルネ**</span><br><img src="コルネ.png" width="150"> | | |
+<table>
+<thead>
+<tr>
+<th style="text-align:left">名前</th>
+<th style="text-align:left">アピールポイント</th>
+<th style="text-align:left">作品リンク</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>たな さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>ふらり さん</strong></span><br></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><span style="font-size: 150%"><strong>コルネ</strong></span><br><img src="コルネ.png" width="150"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+
 
 # 免責事項
 アプリの利用に起因して、利用者に生じた損害または第三者からの請求に基づく利用者の損害について、原因の如何を問わず、運営・アプリ作成者ともに一切の責任を負いません。Japan Power Platform Game Buildersでは上記アプリに関連して利用者と第三者との間に発生するいかなる紛争について、一切責任を負わないものとします。上記アプリの利用は、利用者の責任のもとで行ってください。
