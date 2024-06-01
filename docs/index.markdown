@@ -38,9 +38,9 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 <table>
 <thead>
 <tr>
-<th style="text-align:left">名前</th>
+<th width="200" style="text-align:left">名前</th>
 <th style="text-align:left">アピールポイント</th>
-<th style="text-align:left">作品リンク</th>
+<th width="100" style="text-align:left">作品リンク</th>
 </tr>
 </thead>
 <tbody>
@@ -62,7 +62,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 <tr>
 <td style="text-align:left"><span style="font-size: 150%"><strong>みのる さん</strong></span><br><img src="みのるさん.png" width="150"></td>
 <td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
-<td style="text-align:left"><a href="../04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a><br>(Power Apps Package File)</td>
+<td style="text-align:left"><a href="../04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a><br>(Package File)</td>
 </tr>
 <tr>
 <td style="text-align:left"><span style="font-size: 150%"><strong>ヨウセイ さん</strong></span><br></td>
@@ -94,9 +94,9 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 <table>
 <thead>
 <tr>
-<th style="text-align:left">名前</th>
+<th width="200" style="text-align:left">名前</th>
 <th style="text-align:left">アピールポイント</th>
-<th style="text-align:left">作品リンク</th>
+<th width="100" style="text-align:left">作品リンク</th>
 </tr>
 </thead>
 <tbody>
