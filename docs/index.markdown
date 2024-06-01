@@ -43,55 +43,99 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 
 # エントリー作品一覧
 <table>
-<thead>
-<tr>
-<th width="200" style="text-align:left">名前</th>
-<th style="text-align:left">アピールポイント</th>
-<th width="100" style="text-align:left">作品リンク</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>PPログ さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>Ahf さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>おいしみ さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>みのる さん</strong></span><br><img src="みのるさん.png" width="150"></td>
-<td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
-<td style="text-align:left"><a href="../04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a><br>(Package File)</td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>ヨウセイ さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>Yellow11 さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>Mashiro Misima さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>T A I C H I さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th width="250" style="text-align:left">名前</th>
+      <th style="text-align:left">アピールポイント</th>
+      <th width="150" style="text-align:left">作品リンク</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>PPログ さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>Ahf さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>おいしみ さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>みのる さん</strong>
+        </span>
+        <br>
+        <img src="みのるさん.png" width="150">
+      </td>
+      <td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
+      <td style="text-align:left">
+        <a href="../04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a>
+        <br>(Package File)
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>ヨウセイ さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>Yellow11 さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>Mashiro Misima さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>T A I C H I さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
 </table>
 
 
@@ -99,30 +143,46 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 
 # 運営枠
 <table>
-<thead>
-<tr>
-<th width="200" style="text-align:left">名前</th>
-<th style="text-align:left">アピールポイント</th>
-<th width="100" style="text-align:left">作品リンク</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>たな さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>ふらり さん</strong></span><br></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><span style="font-size: 150%"><strong>コルネ</strong></span><br><img src="コルネ.png" width="150"></td>
-<td style="text-align:left"></td>
-<td style="text-align:left"></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th width="250" style="text-align:left">名前</th>
+      <th style="text-align:left">アピールポイント</th>
+      <th width="150" style="text-align:left">作品リンク</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>たな さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>ふらり さん</strong>
+        </span>
+        <br>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <span style="font-size: 150%">
+          <strong>コルネ</strong>
+        </span>
+        <br>
+        <img src="コルネ.png" width="150">
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
 </table>
 
 
