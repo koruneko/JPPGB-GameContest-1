@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: ゲーム作成コンテスト
-layout: default
+layout: jekyll-theme-midnight
 ---
 
 {: align="center"}
@@ -53,7 +53,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
   <tbody>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>PPログ さん</strong>
         </span>
         <br>
@@ -63,7 +63,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>Ahf さん</strong>
         </span>
         <br>
@@ -73,7 +73,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>おいしみ さん</strong>
         </span>
         <br>
@@ -83,7 +83,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>みのる さん</strong>
         </span>
         <br>
@@ -97,7 +97,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>ヨウセイ さん</strong>
         </span>
         <br>
@@ -107,7 +107,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>Yellow11 さん</strong>
         </span>
         <br>
@@ -117,7 +117,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>Mashiro Misima さん</strong>
         </span>
         <br>
@@ -127,7 +127,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>T A I C H I さん</strong>
         </span>
         <br>
@@ -153,7 +153,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
   <tbody>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>たな さん</strong>
         </span>
         <br>
@@ -163,7 +163,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>ふらり さん</strong>
         </span>
         <br>
@@ -173,7 +173,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 150%">
+        <span style="font-size: 125%">
           <strong>コルネ</strong>
         </span>
         <br>
