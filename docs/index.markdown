@@ -83,9 +83,11 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>みのる さん</strong>
-        </span>
+        <a href="https://x.com/meccha__eeyan">
+          <span style="font-size: 125%">
+            <strong>みのる さん</strong>
+          </span>
+        </a>
         <br>
         <img src="みのるさん.png" width="150">
       </td>
@@ -127,9 +129,11 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>T A I C H I さん</strong>
-        </span>
+        <a href="https://x.com/artbreak_taichi">
+          <span style="font-size: 125%">
+            <strong>T A I C H I さん</strong>
+          </span>
+        </a>
         <br>
         <img src="TAICHIさん.png" width="150">
         <br>
@@ -179,9 +183,11 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>コルネ</strong>
-        </span>
+        <a href="https://x.com/koruneko32767">
+          <span style="font-size: 125%">
+            <strong>コルネ</strong>
+          </span>
+        </a>
         <br>
         <img src="コルネ.png" width="150">
       </td>
