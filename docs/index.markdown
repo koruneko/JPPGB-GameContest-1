@@ -73,13 +73,19 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>おいしみ さん</strong>
-        </span>
+        <a href="https://x.com/ksgiksg">
+          <span style="font-size: 125%">
+            <strong>おいしみ さん</strong>
+          </span>
+        </a>
         <br>
+        <img src="おいしみ_oishimyさん.jpg" width="150">
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Power Apps でも麻雀ができる！<br>和了を判定するのにとても苦労しました。<br>高得点を目指して遊んでみてください！</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/03.おいしみさん/おいし_み_bamboopanda_20240602083321.zip">作品リンク</a>
+        <br>(Package File)
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
