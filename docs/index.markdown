@@ -91,7 +91,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
       <td style="text-align:left">
-        <a href="../04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a>
         <br>(Package File)
       </td>
     </tr>
@@ -136,9 +136,9 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">多くの人が「自分でも作れるかも！」って思ってもらえるゲームアプリ</td>
       <td style="text-align:left">
-        <a href="../08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク</a>
         <br>(Package File)<br>
-        <a href="../08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.pdf">資料リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.pdf">資料リンク</a>
       </td>
     </tr>
   </tbody>
