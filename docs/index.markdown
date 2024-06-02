@@ -131,9 +131,15 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
           <strong>T A I C H I さん</strong>
         </span>
         <br>
+        <img src="TAICHIさん.png" width="150">
+        <br>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">多くの人が「自分でも作れるかも！」って思ってもらえるゲームアプリ</td>
+      <td style="text-align:left">
+        <a href="../08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク</a>
+        <br>(Package File)<br>
+        <a href="../08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.pdf">資料リンク</a>
+      </td>
     </tr>
   </tbody>
 </table>
