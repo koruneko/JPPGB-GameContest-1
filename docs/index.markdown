@@ -100,7 +100,8 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a>
-        <br>(Package File)
+        <br>(Package File)<br>
+        <a href="https://www.docswell.com/s/meccha__eeyan/5JL3N4-2024-06-03-203322">資料リンク</a>
       </td>
     </tr>
     <tr>
@@ -144,7 +145,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <img src="TAICHIさん.png" width="150">
         <br>
       </td>
-      <td style="text-align:left">多くの人が「自分でも作れるかも！」って思ってもらえるゲームアプリ</td>
+      <td style="text-align:left">懐かしの脱出ゲームアプリ！より多くの人が「自分でもゲーム作れるかも！」って思ってもらえたらうれしいです。</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク</a>
         <br>(Package File)<br>
@@ -169,13 +170,23 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
   <tbody>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>たな さん</strong>
-        </span>
+        <a href="https://x.com/dreams_panda">
+          <span style="font-size: 125%">
+            <strong>たな さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="たな_🐼_たな.jpg" width="150">
         <br>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">ただただ「感」を働かせるだけのまったくといってゲーム性を感じないゲームです。<br>ボタンクリックして当たりかはずれか、ただそれだけです。単純明快。<br>おまけに画伯のイラストが見れます。<br>※ イベント時にはイラスト大量増加版で遊びましょう。</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/01.たなさん/たな_🐼_FeelingHit_1_0_0_3_managed.zip">作品リンク</a>
+        <br>(Solution File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/01.たなさん/たな_🐼_GameImage.zip">サンプル画像</a>
+        <br>
+        <a href="https://tana-techlog.net/?p=1417">資料リンク</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
