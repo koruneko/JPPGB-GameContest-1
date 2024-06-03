@@ -83,8 +83,9 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">Power Apps でも麻雀ができる！<br>和了を判定するのにとても苦労しました。<br>高得点を目指して遊んでみてください！</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/03.おいしみさん/おいし_み_bamboopanda_20240602083321.zip">作品リンク</a>
-        <br>(Package File)
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/03.おいしみさん/おいし_み_bamboopanda_修正版">作品リンク</a>
+        <br>(Package File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/03.おいしみさん/おいし_み_【JPPGB】ゲーム作成コンテスト #1_bamboo panga@ksgiksg.pptx">資料リンク</a>
       </td>
     </tr>
     <tr>
