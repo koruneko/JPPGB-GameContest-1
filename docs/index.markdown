@@ -100,20 +100,27 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a>
+         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a>
         <br>(Package File)<br>
         <a href="https://www.docswell.com/s/meccha__eeyan/5JL3N4-2024-06-03-203322">資料リンク</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>ヨウセイ さん</strong>
-        </span>
+        <a href="https://x.com/youseibubu">
+          <span style="font-size: 125%">
+            <strong>ヨウセイ さん</strong>
+          </span>
+        </a>
         <br>
+         <img src="ヨウセイさん.png" width="150">
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">→異世界でDXを武器に平和を取り戻すRPGゲームです！<br>キャラ変更、セーブ機能、クリア後限定機能など搭載<br>お好みのキャラ、スキルで世界に平和を取り戻してください！</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/05.ヨウセイさん/ニシムラ_ヨウセイ_ぴーたの異世界大冒険～最後のDX～_20240604082041.zip">作品リンク</a>
+        <br>(Package File)<br>
+        <a href="https://www.docswell.com/s/yousei/5ENPQ8-2024-06-03-GAME-RPG">資料リンク</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
