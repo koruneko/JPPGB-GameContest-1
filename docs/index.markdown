@@ -65,7 +65,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">
         <a href="https://x.com/twit_ahf">
           <span style="font-size: 125%">
-            <strong>Ahf さん</strong>
+            <strong>Ahf（Tomoyuki Obi） さん</strong>
           </span>
         </a>
         <br>
