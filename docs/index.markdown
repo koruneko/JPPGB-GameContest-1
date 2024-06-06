@@ -63,13 +63,20 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>Ahf さん</strong>
-        </span>
+        <a href="https://x.com/twit_ahf">
+          <span style="font-size: 125%">
+            <strong>Ahf さん</strong>
+          </span>
+        </a>
         <br>
+        <img src="Obi_Tomoyuki_x_icon.jpg" width="150">
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">全国津々浦々のおっさんおばさんの魂に眠っているゲームウォッチを作りたくなったのでやってみましたが、ウォッチの部分はありません</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.Ahfさん/Obi_Tomoyuki_JPPGB_RETROSTYLEGAME_A.msapp">作品リンク</a>
+        <br>(msapp File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.Ahfさん/Obi_Tomoyuki_JPPGB_GameContest._AhfObipptx.pptx">資料リンク</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
