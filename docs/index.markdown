@@ -53,13 +53,19 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
   <tbody>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>PPログ さん</strong>
-        </span>
+        <a href="https://x.com/PowerPlatform4">
+          <span style="font-size: 125%">
+            <strong>PPログ さん</strong>
+          </span>
+        </a>
         <br>
+        <img src="PPログ さん.jpg" width="150">
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.PPログさん/PP_ログ_Tetrapps.msapp">作品リンク</a>
+        <br>(msapp File)<br>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
