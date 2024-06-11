@@ -61,7 +61,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <br>
         <img src="PPログ さん.jpg" width="150">
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">テトリスっぽいゲームを作成しました！<br>キーボード操作でテトリスのようなスピード感のある操作が可能です。<br>ぜひ遊んで、ハイスコアをXへ投稿してください！</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.PPログさん/PP_ログ_Tetrapps.msapp">作品リンク</a>
         <br>(msapp File)<br>
