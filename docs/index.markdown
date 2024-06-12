@@ -171,6 +171,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク</a>
         <br>(Package File)<br>
         <a href="https://speakerdeck.com/taichinakamura/anatamozuo-reru-huai-kasino-tuo-chu-gemu-power-apps-power-platform">資料リンク</a>
+        <br>
         <a href="https://youtu.be/OIyjSNqHY7U?si=NoChNi8bb54GysA9">動画リンク</a>
       </td>
     </tr>
