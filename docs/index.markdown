@@ -233,7 +233,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">ローグライク作ろうとして諦めました。<br>誰かリバースエンジニアリングしてください。<br><br>遊ぶたびにマップが切り替わるダンジョンゲームです！<br>制限時間内にどれだけ登れるか挑戦してみてください。<br>皆様の高得点報告お待ちしております。<br>...バグがあったら教えてくださいw<br></td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/03.コルネ/PowerLabyrinth_コルネ_managed.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/03.コルネ/PowerLabyrinth_1_0_0_4_managed.zip">作品リンク</a>
         <br>(Solution File)<br>
       </td>
     </tr>
