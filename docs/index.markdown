@@ -130,7 +130,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">異世界でDXを武器に平和を取り戻すRPGゲームです！<br>キャラ変更、セーブ機能、クリア後限定機能など搭載<br>お好みのキャラ、スキルで世界に平和を取り戻してください！</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/05.ヨウセイさん/ヨウセイ_ニシムラ_ぴーたの異世界大冒険～最後のDX～_20240612122108">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/05.ヨウセイさん/ヨウセイ_ニシムラ_ぴーたの異世界大冒険～最後のDX～_20240612122108.zip">作品リンク</a>
         <br>(Package File)<br>
         <a href="https://www.docswell.com/s/yousei/5ENPQ8-2024-06-03-GAME-RPG">資料リンク</a>
       </td>
@@ -171,6 +171,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク</a>
         <br>(Package File)<br>
         <a href="https://speakerdeck.com/taichinakamura/anatamozuo-reru-huai-kasino-tuo-chu-gemu-power-apps-power-platform">資料リンク</a>
+        <a href="https://youtu.be/OIyjSNqHY7U?si=NoChNi8bb54GysA9">動画リンク</a>
       </td>
     </tr>
   </tbody>
