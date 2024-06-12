@@ -130,7 +130,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">異世界でDXを武器に平和を取り戻すRPGゲームです！<br>キャラ変更、セーブ機能、クリア後限定機能など搭載<br>お好みのキャラ、スキルで世界に平和を取り戻してください！</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/05.ヨウセイさん/ニシムラ_ヨウセイ_ぴーたの異世界大冒険～最後のDX～_20240604082041.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/05.ヨウセイさん/ヨウセイ_ニシムラ_ぴーたの異世界大冒険～最後のDX～_20240612122108">作品リンク</a>
         <br>(Package File)<br>
         <a href="https://www.docswell.com/s/yousei/5ENPQ8-2024-06-03-GAME-RPG">資料リンク</a>
       </td>
