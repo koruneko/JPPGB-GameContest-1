@@ -47,7 +47,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     <tr>
       <th width="250" style="text-align:left">名前</th>
       <th style="text-align:left">アピールポイント</th>
-      <th width="150" style="text-align:left">作品リンク Ver-1.0</th>
+      <th width="150" style="text-align:left">作品リンク</th>
     </tr>
   </thead>
   <tbody>
@@ -187,7 +187,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     <tr>
       <th width="250" style="text-align:left">名前</th>
       <th style="text-align:left">アピールポイント</th>
-      <th width="150" style="text-align:left">作品リンク Ver-1.0</th>
+      <th width="150" style="text-align:left">作品リンク</th>
     </tr>
   </thead>
   <tbody>
