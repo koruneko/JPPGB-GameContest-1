@@ -47,7 +47,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     <tr>
       <th width="250" style="text-align:left">名前</th>
       <th style="text-align:left">アピールポイント</th>
-      <th width="150" style="text-align:left">作品リンク</th>
+      <th width="150" style="text-align:left">作品リンク Ver-1.0</th>
     </tr>
   </thead>
   <tbody>
@@ -63,7 +63,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">テトリスっぽいゲームを作成しました！<br>キーボード操作でテトリスのようなスピード感のある操作が可能です。<br>ぜひ遊んで、ハイスコアをXへ投稿してください！</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.PPログさん/PP_ログ_Tetrapps.msapp">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.PPログさん/PP_ログ_Tetrapps.msapp">作品リンク Ver-1.0</a>
         <br>(msapp File)<br>
       </td>
     </tr>
@@ -79,7 +79,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">全国津々浦々のおっさんおばさんの魂に眠っているゲームウォッチを作りたくなったのでやってみましたが、ウォッチの部分はありません</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.Ahfさん/Obi_Tomoyuki_JPPGB_RETROSTYLEGAME_A.msapp">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.Ahfさん/Obi_Tomoyuki_JPPGB_RETROSTYLEGAME_A.msapp">作品リンク Ver-1.0</a>
         <br>(msapp File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.Ahfさん/Obi_Tomoyuki_JPPGB_GameContest._AhfObipptx.pptx">資料リンク</a>
       </td>
@@ -96,7 +96,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">Power Apps でも麻雀ができる！<br>和了を判定するのにとても苦労しました。<br>高得点を目指して遊んでみてください！</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/03.おいしみさん/おいし_み_bamboopanda_修正版.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/03.おいしみさん/おいし_み_bamboopanda_修正版.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/03.おいしみさん/おいし_み_【JPPGB】ゲーム作成コンテスト%20%231_bamboo%20panga%40ksgiksg.pptx">資料リンク</a>
       </td>
@@ -113,7 +113,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">いらすとやさん全面協力（勝手に拝借）です。子供に遊んでもらいたいなと思って作りましたが7歳＆3歳女児の反応はボチボチでした・・・</td>
       <td style="text-align:left">
-         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク</a>
+         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/04.みのるさん/Minoru_Yagi_Shoot&amp;Bloom_20240527134512.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
         <a href="https://www.docswell.com/s/meccha__eeyan/5JL3N4-2024-06-03-203322">資料リンク</a>
       </td>
@@ -130,7 +130,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">異世界でDXを武器に平和を取り戻すRPGゲームです！<br>キャラ変更、セーブ機能、クリア後限定機能など搭載<br>お好みのキャラ、スキルで世界に平和を取り戻してください！</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/05.ヨウセイさん/ヨウセイ_ニシムラ_ぴーたの異世界大冒険～最後のDX～_20240612122108.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/05.ヨウセイさん/ヨウセイ_ニシムラ_ぴーたの異世界大冒険～最後のDX～_20240612122108.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
         <a href="https://www.docswell.com/s/yousei/5ENPQ8-2024-06-03-GAME-RPG">資料リンク</a>
       </td>
@@ -168,7 +168,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">懐かしの脱出ゲームアプリ！より多くの人が「自分でもゲーム作れるかも！」って思ってもらえたらうれしいです。</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/08.TAICHIさん/Taichi_Nakamura_JPPGB01_Taichi.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
         <a href="https://speakerdeck.com/taichinakamura/anatamozuo-reru-huai-kasino-tuo-chu-gemu-power-apps-power-platform">資料リンク</a>
         <br>
@@ -187,7 +187,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     <tr>
       <th width="250" style="text-align:left">名前</th>
       <th style="text-align:left">アピールポイント</th>
-      <th width="150" style="text-align:left">作品リンク</th>
+      <th width="150" style="text-align:left">作品リンク Ver-1.0</th>
     </tr>
   </thead>
   <tbody>
@@ -204,7 +204,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">ただただ「感」を働かせるだけのまったくといってゲーム性を感じないゲームです。<br>ボタンクリックして当たりかはずれか、ただそれだけです。単純明快。<br>おまけに画伯のイラストが見れます。<br>※ イベント時にはイラスト大量増加版で遊びましょう。</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/01.たなさん/たな_🐼_FeelingHit_1_0_0_3_managed.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/01.たなさん/たな_🐼_FeelingHit_1_0_0_3_managed.zip">作品リンク Ver-1.0</a>
         <br>(Solution File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/01.たなさん/たな_🐼_GameImage.zip">サンプル画像</a>
         <br>
@@ -233,7 +233,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">ローグライク作ろうとして諦めました。<br>誰かリバースエンジニアリングしてください。<br><br>遊ぶたびにマップが切り替わるダンジョンゲームです！<br>制限時間内にどれだけ登れるか挑戦してみてください。<br>皆様の高得点報告お待ちしております。<br>...バグがあったら教えてくださいw<br></td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/03.コルネ/PowerLabyrinth_1_0_0_4_managed.zip">作品リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/03.コルネ/PowerLabyrinth_1_0_0_4_managed.zip">作品リンク Ver-1.0</a>
         <br>(Solution File)<br>
       </td>
     </tr>
