@@ -193,7 +193,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">同窓会準備で超忙しい中作ったので、全然へっぽこです</td>
       <td style="text-align:left">
-         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main)/09.dai365さん/dai_365_MineSweeper？_20240616120121.zip">作品リンク Ver-1.0</a>
+         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/09.dai365さん/dai_365_MineSweeper？_20240616120121.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/09.dai365さん/dai_365_MineSweeper？.pptx">資料リンク</a>
       </td>
