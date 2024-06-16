@@ -147,13 +147,19 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>Mashiro Misima さん</strong>
-        </span>
+        <a href="https://x.com/MMishima_3">
+          <span style="font-size: 125%">
+            <strong>Mishima さん</strong>
+          </span>
+        </a>
         <br>
+        <img src="Masahiro_Mishima_アイコン画像.jpg" width="150">
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Power Apps で疑似3Dシューティングが作れないかトライしてみました。タップだけのシンプルな操作でスピード感のあるゲームが出来たのではないかと思います。楽しんでプレイして頂けたらと思います。</td>
+      <td style="text-align:left">
+         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/07.Mishimaさん/Masahiro_Mishima_PowerGuardians.zip">作品リンク Ver-1.0</a>
+        <br>(Package File)<br>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -173,6 +179,23 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <a href="https://speakerdeck.com/taichinakamura/anatamozuo-reru-huai-kasino-tuo-chu-gemu-power-apps-power-platform">資料リンク</a>
         <br>
         <a href="https://youtu.be/OIyjSNqHY7U?si=NoChNi8bb54GysA9">動画リンク</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <a href="https://x.com/dai_keiba_73">
+          <span style="font-size: 125%">
+            <strong>dai365 さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="dai365さん.jpg" width="150">
+      </td>
+      <td style="text-align:left">同窓会準備で超忙しい中作ったので、全然へっぽこです</td>
+      <td style="text-align:left">
+         <a href="[..](https://github.com/koruneko/JPPGB-GameContest-1/blob/main)/09.dai365さん/dai_365_MineSweeper？_20240616120121.zip">作品リンク Ver-1.0</a>
+        <br>(Package File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/09.dai365さん/dai_365_MineSweeper？.pptx">資料リンク</a>
       </td>
     </tr>
   </tbody>
