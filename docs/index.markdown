@@ -159,6 +159,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">
          <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/07.Mishimaさん/Masahiro_Mishima_PowerGuardians.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
+        <a href="https://x.com/MMishima_3/status/1802332053415096780">動画リンク</a>
       </td>
     </tr>
     <tr>
