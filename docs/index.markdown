@@ -245,7 +245,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <br>
         <img src="ふらり さん.jpg" width="150">
       </td>
-      <td style="text-align:left">じゃんけんをただひたすらにするだけのゲーム。コントロールも少なめ(10個)で、実装したコードも少なめなのでカスタマイズは自由自在<br></td>
+      <td style="text-align:left">じゃんけんをただひたすらにするだけのゲーム。<br>コントロールも少なめ(10個)で、実装したコードも少なめなのでカスタマイズは自由自在</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/02.ふらり＠ROBO BOYさん/じゃんけん_20240617092602.zip">作品リンク Ver-1.0</a>
         <br>(Solution File)<br>
