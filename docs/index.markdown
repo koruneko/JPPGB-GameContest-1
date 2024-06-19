@@ -194,7 +194,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">同窓会準備で超忙しい中作ったので、全然へっぽこです</td>
       <td style="text-align:left">
-         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/09.dai365さん/dai_365_MineSweeper？_20240616120121.zip">作品リンク Ver-1.0</a>
+         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/09.dai365さん/dai_365_MineSweeper？ver2_20240619113823.zip">作品リンク Ver-2.0</a>
         <br>(Package File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/09.dai365さん/dai_365_MineSweeper？.pptx">資料リンク</a>
       </td>
@@ -243,13 +243,13 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
           </span>
         </a>
         <br>
-        <img src="ふらり さん.jpg" width="150">
+        <img src="FLALI-LOGO.png" width="150">
       </td>
-      <td style="text-align:left">じゃんけんをただひたすらにするだけのゲーム。<br>コントロールも少なめ(10個)で、実装したコードも少なめなのでカスタマイズは自由自在</td>
+      <td style="text-align:left">じゃんけんをただひたするするだけのゲームです。<br>コントロールも少なめ(10個)で、実装したコードも少なめなのでカスタマイズも自由自在</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/02.ふらり＠ROBO BOYさん/じゃんけん_20240617092602.zip">作品リンク Ver-1.0</a>
         <br>(Solution File)<br>
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/02.ふらり＠ROBO BOYさん/Power Apps でじゃんけんゲームをつくってみた.pdf">資料リンク</a>
+        <a href="https://www.docswell.com/s/fworlddocs/KJL2GM-2024-06-22-100000">資料リンク</a>
       </td>
     </tr>
     <tr>
