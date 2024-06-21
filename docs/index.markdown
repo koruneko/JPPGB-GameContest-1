@@ -137,13 +137,18 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
-        <span style="font-size: 125%">
-          <strong>Yellow11 さん</strong>
-        </span>
+        <a href="https://x.com/br_Yellow11">
+          <span style="font-size: 125%">
+            <strong>Yellow11 さん</strong>
+          </span>
+        </a>
         <br>
+        <img src="Yellow11 さん.jpg" width="150">
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">700個のURLを手動で転記した泥臭い作品です</td>
+      <td style="text-align:left">
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiZWFhZjMxYjMtNTNlMi00MjI3LWEwYWUtNTNiMGIxZTU2NmI3IiwidCI6ImRjM2RjMmVhLTg2NWItNDFiOC04OTgwLWRlNmEwY2ZlZGNjYSJ9&pageName=972eee2d4685a9a99da8">作品リンク Ver-1.0</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -264,7 +269,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">ローグライク作ろうとして諦めました。<br>誰かリバースエンジニアリングしてください。<br><br>遊ぶたびにマップが切り替わるダンジョンゲームです！<br>制限時間内にどれだけ登れるか挑戦してみてください。<br>皆様の高得点報告お待ちしております。<br>...バグがあったら教えてくださいw<br></td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/03.コルネ/PowerLabyrinth_1_0_0_5_managed.zip">作品リンク Ver-2.0</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/99.運営枠/03.コルネ/PowerLabyrinth_1_0_0_5_managed.zip">作品リンク Ver-3.0</a>
         <br>(Solution File)
         <br>
         <a href="https://koruneko.hatenablog.com/entry/2024/06/15/170249">資料リンク</a>
