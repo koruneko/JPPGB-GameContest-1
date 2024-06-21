@@ -79,9 +79,9 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       </td>
       <td style="text-align:left">全国津々浦々のおっさんおばさんの魂に眠っているゲームウォッチを作りたくなったのでやってみましたが、ウォッチの部分はありません</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.Ahfさん/Obi_Tomoyuki_JPPGB_RETROSTYLEGAME_A.msapp">作品リンク Ver-1.0</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/02.Ahfさん/Obi_Tomoyuki_JPPGB_RETROSTYLEGAME_A.msapp">作品リンク Ver-1.0</a>
         <br>(msapp File)<br>
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/01.Ahfさん/Obi_Tomoyuki_JPPGB_GameContest._AhfObipptx.pptx">資料リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/02.Ahfさん/Obi_Tomoyuki_JPPGB_GameContest._AhfObipptx.pptx">資料リンク</a>
       </td>
     </tr>
     <tr>
